@@ -1,0 +1,111 @@
+id: I772AAC0A
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-22T05:47:59+00:00'
+last_modified: '2022-06-08T02:53:45.237111+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1KG16651
+  title: གསུང་འབུམ། གོ་རམས་པ་བསོད་ནམས་སེངྒེ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    83B3:
+      image_group_id: I2PD17674
+      title: ''
+      total_pages: 604
+      order: 1
+      base_file: 83B3.txt
+    F80A:
+      image_group_id: I2PD17675
+      title: ''
+      total_pages: 522
+      order: 2
+      base_file: F80A.txt
+    C4A1:
+      image_group_id: I2PD17676
+      title: ''
+      total_pages: 494
+      order: 3
+      base_file: C4A1.txt
+    95CC:
+      image_group_id: I2PD17677
+      title: ''
+      total_pages: 514
+      order: 4
+      base_file: 95CC.txt
+    29ED:
+      image_group_id: I2PD17678
+      title: ''
+      total_pages: 540
+      order: 5
+      base_file: 29ED.txt
+    9A86:
+      image_group_id: I2PD17679
+      title: ''
+      total_pages: 458
+      order: 6
+      base_file: 9A86.txt
+    BA7A:
+      image_group_id: I2PD17680
+      title: ''
+      total_pages: 434
+      order: 7
+      base_file: BA7A.txt
+    499D:
+      image_group_id: I2PD17681
+      title: ''
+      total_pages: 444
+      order: 8
+      base_file: 499D.txt
+    CF25:
+      image_group_id: I2PD17682
+      title: ''
+      total_pages: 546
+      order: 9
+      base_file: CF25.txt
+    669F:
+      image_group_id: I2PD17683
+      title: ''
+      total_pages: 482
+      order: 10
+      base_file: 669F.txt
+    5BBC:
+      image_group_id: I2PD17684
+      title: ''
+      total_pages: 398
+      order: 11
+      base_file: 5BBC.txt
+    A04F:
+      image_group_id: I2PD17685
+      title: ''
+      total_pages: 510
+      order: 12
+      base_file: A04F.txt
+    A2D2:
+      image_group_id: I2PD17686
+      title: ''
+      total_pages: 494
+      order: 13
+      base_file: A2D2.txt
+    A560:
+      image_group_id: I2PD17687
+      title: ''
+      total_pages: 480
+      order: 14
+      base_file: A560.txt
+    D4C2:
+      image_group_id: I2PD17688
+      title: ''
+      total_pages: 526
+      order: 15
+      base_file: D4C2.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
